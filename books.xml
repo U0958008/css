@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="my css.css" type="text/css"?>
 <books>
-<heading>文創書房</heading>
+<heading>喜歡的歌手</heading>
 <book>
-<title>我愛程式設計</title>
-<auther>楊欣庭</auther>
-<publisher>聯大出版社</publisher>
+<title>孫盛希</title>
+<introduce>滾石唱片歌手</introduce>
+<works>夢遊，闖空門</works>
 </book>
 <book>
-<title>我愛電腦繪圖</title>
-<auther>楊欣庭</auther>
-<publisher>聯大出版社</publisher>
+<title>羅莎莎</title>
+<introduce>近期開創工作室</introduce>
+<works>慣性失蹤</works>
 </book>
 </books>
