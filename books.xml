@@ -4,12 +4,12 @@
 <heading>喜歡的歌手</heading>
 <book>
 <title>孫盛希</title>
-<introduce>滾石唱片歌手</introduce>
+<author>滾石唱片歌手</author>
 <publisher>夢遊，闖空門</publisher>
 </book>
 <book>
 <title>羅莎莎</title>
-<introduce>近期開創工作室</introduce>
+<author>近期開創工作室</author>
 <publisher>慣性失蹤</publisher>
 </book>
 </books>
